@@ -1,5 +1,5 @@
 [
   {"code": "XYZ789", "expirationDate": "2024-06-30", "used": false, "androidId": "9f37de0393957"},
   {"code": "ABC123", "expirationDate": "2026-12-31", "used": false, "androidId": ""},
-  {"code": "DEF456", "expirationDate": "2025-02-28", "used": false, "androidId": ""}
+  {"code": "DEF456", "expirationDate": "2025-02-28", "used": true, "androidId": ""}
 ]
